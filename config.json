@@ -1,0 +1,6 @@
+{
+  "name": "Istroverse (kvx)",
+  "port": 3000,
+  "addr": "istroverse.kvx.repl.co",
+  "root_addr": "ws://198.199.109.223:88"
+}
